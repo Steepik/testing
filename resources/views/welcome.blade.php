@@ -64,7 +64,7 @@
             }
             .test {
                 font-size: 10px;
-                test
+                b1;
             }
         </style>
     </head>

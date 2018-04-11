@@ -62,6 +62,9 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .test {
+                align-items: center;
+            }
         </style>
     </head>
     <body>

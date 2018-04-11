@@ -66,6 +66,7 @@
                 align-items: baseline;
                 font-size: 20px;
                 branch2;
+                branch2;
             }
         </style>
     </head>

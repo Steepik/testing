@@ -63,7 +63,8 @@
                 margin-bottom: 30px;
             }
             .test {
-                align-items: center;
+                align-items: baseline;
+
             }
         </style>
     </head>

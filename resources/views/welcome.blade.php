@@ -64,7 +64,7 @@
             }
             .test {
                 align-items: baseline;
-
+                font-size: 20px;
             }
         </style>
     </head>

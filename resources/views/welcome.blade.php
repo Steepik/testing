@@ -63,9 +63,8 @@
                 margin-bottom: 30px;
             }
             .test {
-                align-items: baseline;
-                font-size: 20px;
-                branchgit2;
+                font-size: 10px;
+                b1;
             }
         </style>
     </head>

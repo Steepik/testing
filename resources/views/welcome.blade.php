@@ -63,7 +63,7 @@
                 margin-bottom: 30px;
             }
             .test {
-                align-items: center;
+                font-size: 10px;
             }
         </style>
     </head>
